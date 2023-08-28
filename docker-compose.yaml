@@ -1,0 +1,18 @@
+version: '3'
+services:
+  gibt-mobile-crawler:
+    build:
+      context: .
+    container_name: gibt-mobile-crawler.app
+    volumes:
+      # Here we mount in our codebase so any changes are immediately reflected into the container
+      - '.:/python-docker'
+    networks:
+      - gibt-mobile-crawler
+    profiles:
+      - main
+    entrypoint: /bin/sh
+    tty: true
+
+networks:
+  gibt-mobile-crawler:

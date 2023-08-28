@@ -5,7 +5,7 @@ import html2text
 import sys
 import json
 from urllib.parse import urlparse
-from bs4 import BeautifulSoup
+# from bs4 import BeautifulSoup
 import time
 
 class HttpClient:
