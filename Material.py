@@ -147,16 +147,16 @@ class Material(HttpClient):
         return data
 
     def saveMaterialJSONFile(self):
-        json_file = open(".data/materials/"+self.main_info['id']+".json", "w")
+        json_file = open("data/materials/"+self.main_info['id']+".json", "w")
 
         json_file.write(self.dumpJSON(self.parseData()))
         json_file.close()
 
 
 if(__name__ == '__main__'):
-    characters_json_file = open(".data/characters.json", "r")
+    characters_json_file = open("data/characters.json", "r")
     characters_data = json.load(characters_json_file)
-    weapons_json_file = open(".data/weapons.json", "r")
+    weapons_json_file = open("data/weapons.json", "r")
     weapons_data = json.load(weapons_json_file)
 
     materials_list = []
@@ -183,7 +183,7 @@ if(__name__ == '__main__'):
         materials_data.append(data.parseData())
         print(' - '+data.main_info['name'] + ': ok')
     
-    json_file = open(".data/materials.json", "w")
+    json_file = open("data/materials.json", "w")
 
     json_file.write(json.dumps({'list': materials_data }))
     json_file.close()
