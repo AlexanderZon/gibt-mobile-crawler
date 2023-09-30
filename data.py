@@ -69,6 +69,8 @@ characters = [
     'linette_083',              # Lynette
     'liney_084',                # Lyney
     'freminet_085',             # Freminet
+    'wriothesley_086',          # Wriothesley
+    'neuvillette_087',          # Neuvillette
 ]
 
 weapons = [
@@ -82,7 +84,8 @@ weapons = [
     'i_n11503',                 # Freedom-Sworn
     'i_n11502',                 # Skyward Blade
     'i_n11501',                 # Aquila Favonia
-    'i_n11426',                 # Crossing of Fleuve Cendre
+    'i_n11427',                 # The Dockhand's Assistant
+    'i_n11426',                 # Fleuve Cendre Ferryman
     'i_n11425',                 # Finale of the Deep
     'i_n11422',                 # Toukabou Shigure
     'i_n11418',                 # Xiphos' Moonlight
@@ -117,6 +120,7 @@ weapons = [
     'i_n12503',                 # Song of Broken Pines
     'i_n12502',                 # Wolf's Gravestone
     'i_n12501',                 # Skyward Pride
+    'i_n12427',                 # Portable Power Saw
     'i_n12425',                 # Tidal Shadow
     'i_n12424',                 # Talking Stick
     'i_n12418',                 # Mailed Flower
@@ -152,6 +156,7 @@ weapons = [
     'i_n13504',                 # Vortex Vanquisher
     'i_n13502',                 # Skyward Spine
     'i_n13501',                 # Staff of Homa
+    'i_n13427',                 # Prospector's Drill
     'i_n13425',                 # Rightful Reward
     'i_n13424',                 # Ballad of the Fjords
     'i_n13419',                 # Missive Windspear
@@ -174,6 +179,8 @@ weapons = [
     'i_n13201',                 # Iron Point
     'i_n13101',                 # Beginner's Protector
     ############################# Catalyst
+    'i_n14514',                 # Tome of the Eternal Flow
+    'i_n14513',                 # Cashflow Supervision
     'i_n14512',                 # Tulaytullah's Remembrance
     'i_n14511',                 # A Thousand Floating Dreams
     'i_n14509',                 # Kagura's Verity
@@ -182,6 +189,7 @@ weapons = [
     'i_n14504',                 # Memory of Dust
     'i_n14502',                 # Lost Prayer to the Sacred Winds
     'i_n14501',                 # Skyward Atlas
+    'i_n14426',                 # Ballad of the Boundless Blue
     'i_n14425',                 # Flowing Purity
     'i_n14424',                 # Sacrificial Jade
     'i_n14417',                 # Fruit of Fulfillment
@@ -217,6 +225,7 @@ weapons = [
     'i_n15503',                 # Elegy for the End
     'i_n15502',                 # Amos' Bow
     'i_n15501',                 # Skyward Harp
+    'i_n15427',                 # Range Gauge
     'i_n15425',                 # Song of Stillness
     'i_n15424',                 # Scion of the Blazing Sun
     'i_n15419',                 # Ibis Piercer

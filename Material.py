@@ -85,13 +85,13 @@ class Material(HttpClient):
                                 case "Talent RewardItem":
                                     self.main_info['material_type'] = 'RewardItem'
                                 case "Wep Primary Ascension Material":
-                                    self.main_info['material_type'] = 'PrimaryAscensionMaterial,'
+                                    self.main_info['material_type'] = 'PrimaryAscensionMaterial'
                                 case "Wep Primary AscensionMaterial":
-                                    self.main_info['material_type'] = 'PrimaryAscensionMaterial,'
+                                    self.main_info['material_type'] = 'PrimaryAscensionMaterial'
                                 case "Wep Secondary Ascension Material":
-                                    self.main_info['material_type'] = 'SecondaryAscensionMaterial,'
+                                    self.main_info['material_type'] = 'SecondaryAscensionMaterial'
                                 case "Wep Secondary AscensionMaterial":
-                                    self.main_info['material_type'] = 'SecondaryAscensionMaterial,'
+                                    self.main_info['material_type'] = 'SecondaryAscensionMaterial'
                         print(self.main_info['material_type'])
                     case "Open in Weekday":
                         weekdays = row[1].split(',')
