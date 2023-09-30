@@ -165,7 +165,7 @@ class Character(HttpClient):
         if(lower_type != None):
             self.gallery.append({ 'type': lower_type, 'url': url})
             image_response = self.requestUrl(url)
-            fp = open('.assets/characters/'+self.main_info['id']+'_'+lower_type.lower()+'.webp', 'wb')
+            fp = open('assets/characters/'+self.main_info['id']+'_'+lower_type.lower()+'.webp', 'wb')
             fp.write(image_response.content)
             fp.close()
 
@@ -192,7 +192,7 @@ class Character(HttpClient):
         return data
 
     def saveCharacterJSONFile(self):
-        json_file = open(".data/characters/"+self.main_info['id']+".json", "w")
+        json_file = open("data/characters/"+self.main_info['id']+".json", "w")
 
         json_file.write(self.dumpJSON(self.parseData()))
         json_file.close()
@@ -208,6 +208,6 @@ if(__name__ == '__main__'):
         counter += 1
         print(' - '+data.main_info['name'] + ': ok')
     
-    json_file = open(".data/characters.json", "w")
+    json_file = open("data/characters.json", "w")
     json_file.write(json.dumps({'list': characters_data}))
     json_file.close()

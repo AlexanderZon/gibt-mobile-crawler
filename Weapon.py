@@ -132,7 +132,7 @@ class Weapon(HttpClient):
         if(lower_type != None):
             self.gallery.append({ 'type': lower_type, 'url': url})
             image_response = self.requestUrl(url)
-            fp = open('.assets/weapons/'+self.main_info['id']+'_'+lower_type+'.webp', 'wb')
+            fp = open('assets/weapons/'+self.main_info['id']+'_'+lower_type+'.webp', 'wb')
             fp.write(image_response.content)
             fp.close()
 
@@ -157,7 +157,7 @@ class Weapon(HttpClient):
         return data
 
     def saveWeaponJSONFile(self):
-        json_file = open(".data/weapons/"+self.main_info['id']+".json", "w")
+        json_file = open("data/weapons/"+self.main_info['id']+".json", "w")
 
         json_file.write(self.dumpJSON(self.parseData()))
         json_file.close()
@@ -170,7 +170,7 @@ if(__name__ == '__main__'):
         weapons_data.append(data.parseData())
         print(' - '+data.main_info['name'] + ': ok')
     
-    json_file = open(".data/weapons.json", "w")
+    json_file = open("data/weapons.json", "w")
 
     json_file.write(json.dumps({'list': weapons_data }))
     json_file.close()
