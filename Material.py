@@ -92,7 +92,6 @@ class Material(HttpClient):
                                     self.main_info['material_type'] = 'SecondaryAscensionMaterial'
                                 case "Wep Secondary AscensionMaterial":
                                     self.main_info['material_type'] = 'SecondaryAscensionMaterial'
-                        print(self.main_info['material_type'])
                     case "Open in Weekday":
                         weekdays = row[1].split(',')
                         for weekday in weekdays:

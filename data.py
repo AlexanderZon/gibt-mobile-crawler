@@ -71,10 +71,13 @@ characters = [
     'freminet_085',             # Freminet
     'wriothesley_086',          # Wriothesley
     'neuvillette_087',          # Neuvillette
+    'charlotte_088',            # Charlotte
+    'furina_089',               # Furina
 ]
 
 weapons = [
     ############################# Swords
+    'i_n11513',                 # Splendor of Tranquil Waters
     'i_n11512',                 # Light of Foliar Incision
     'i_n11511',                 # Key of Khaj-Nisut
     'i_n11510',                 # Haran Geppaku Futsu
@@ -84,6 +87,7 @@ weapons = [
     'i_n11503',                 # Freedom-Sworn
     'i_n11502',                 # Skyward Blade
     'i_n11501',                 # Aquila Favonia
+    'i_n11428',                 # Sword of Narzissenkreuz
     'i_n11427',                 # The Dockhand's Assistant
     'i_n11426',                 # Fleuve Cendre Ferryman
     'i_n11425',                 # Finale of the Deep
