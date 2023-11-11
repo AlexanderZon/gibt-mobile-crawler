@@ -73,6 +73,8 @@ characters = [
     'neuvillette_087',          # Neuvillette
     'charlotte_088',            # Charlotte
     'furina_089',               # Furina
+    'chevreuse_090',            # Chevreuse
+    'navia_091',                # Navia
 ]
 
 weapons = [
@@ -118,6 +120,7 @@ weapons = [
     'i_n11201',                 # Silver Sword
     'i_n11101',                 # Dull Blade
     ############################# Claymore
+    'i_n12512',                 # Considered Judgment
     'i_n12511',                 # Beacon of the Reed Sea
     'i_n12510',                 # Redhorn Stonethresher
     'i_n12504',                 # The Unforged
