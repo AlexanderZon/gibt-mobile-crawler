@@ -17,5 +17,5 @@ python Material.py
 
 Ejecutar comando para actualización de indexado de archivos de materiales
 ```shell
-python read_material_folder.py.py
+python read_materials_folder.py
 ```

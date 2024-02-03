@@ -1,17 +1,17 @@
 {
     "id": "liuyun_093",
     "name": "Xianyun",
-    "title": "???",
-    "occupation": "???",
+    "title": "Passerine Herald",
+    "occupation": "Mt. Aocang",
     "association": "Liyue",
     "rarity": 5,
     "weapon_type": "Catalyst",
     "element": "unknown",
-    "day_of_birth": "1",
-    "month_of_birth": "1",
+    "day_of_birth": "11",
+    "month_of_birth": "4",
     "vision": "Anemo",
-    "constellation": "\u95f2\u9e64\u5ea7",
-    "description": "\u6d4b\u8bd5\u89d2\u8272",
+    "constellation": "Grus Serena",
+    "description": "One of the Mighty and Illuminated Adepti of Jueyun, known as \"Cloud Retainer.\"Expert in all kinds of mechanical contraptions, her heart now turns towardsthe affairs of the mortal world, through which she walks under the name\"Xianyun.\"",
     "ascension_materials": [
         {
             "id": "i_351",
@@ -35,7 +35,7 @@
         },
         {
             "id": "i_n101241",
-            "name": "清水玉"
+            "name": "Clearwater Jade"
         },
         {
             "id": "i_41",
@@ -102,7 +102,7 @@
                 },
                 {
                     "id": "i_n101241",
-                    "name": "清水玉",
+                    "name": "Clearwater Jade",
                     "quantity": 3
                 },
                 {
@@ -150,7 +150,7 @@
                 },
                 {
                     "id": "i_n101241",
-                    "name": "清水玉",
+                    "name": "Clearwater Jade",
                     "quantity": 10
                 },
                 {
@@ -198,7 +198,7 @@
                 },
                 {
                     "id": "i_n101241",
-                    "name": "清水玉",
+                    "name": "Clearwater Jade",
                     "quantity": 20
                 },
                 {
@@ -246,7 +246,7 @@
                 },
                 {
                     "id": "i_n101241",
-                    "name": "清水玉",
+                    "name": "Clearwater Jade",
                     "quantity": 30
                 },
                 {
@@ -294,7 +294,7 @@
                 },
                 {
                     "id": "i_n101241",
-                    "name": "清水玉",
+                    "name": "Clearwater Jade",
                     "quantity": 45
                 },
                 {
@@ -342,7 +342,7 @@
                 },
                 {
                     "id": "i_n101241",
-                    "name": "清水玉",
+                    "name": "Clearwater Jade",
                     "quantity": 60
                 },
                 {
