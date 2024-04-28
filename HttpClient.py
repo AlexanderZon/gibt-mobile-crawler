@@ -30,7 +30,7 @@ class HttpClient:
         return text
 
     def requestResource(self):
-        time.sleep(1)
+        time.sleep(2)
         print('Trying to request: '+self._endpoint)
         response = self.requestUrl(self._url_base+'/'+self._endpoint)
         return response.text
