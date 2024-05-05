@@ -77,13 +77,17 @@ characters = [
     # 'navia_091',                # Navia
     # 'gaming_092',               # Gaming
     # 'liuyun_093',               # Xianyun
-    'chiori_094',               # Chiori
-    'arlecchino_096',           # Arlecchino
+    # 'chiori_094',               # Chiori
+    # 'arlecchino_096',           # Arlecchino
+    'sigewinne_095',            # Sigewinne
+    'sethos_097',               # Sethos
+    'clorinde_098',             # Clorinde
 ]
 
 weapons = [
     ############################# Swords
-    'i_n11514',                 # Uraku Misugiri
+    'i_n11515',                 # Absolution
+    # 'i_n11514',                 # Uraku Misugiri
     # 'i_n11513',                 # Splendor of Tranquil Waters
     # 'i_n11512',                 # Light of Foliar Incision
     # 'i_n11511',                 # Key of Khaj-Nisut
@@ -162,7 +166,7 @@ weapons = [
     # 'i_n12201',                 # Old Merc's Pal
     # 'i_n12101',                 # Waster Greatsword
     ############################# Polearm
-    'i_n13512',                 # Crimson Moon’s Semblance
+    # 'i_n13512',                 # Crimson Moon’s Semblance
     # 'i_n13511',                 # Staff of the Scarlet Sands
     # 'i_n13509',                 # Engulfing Lightning
     # 'i_n13507',                 # Calamity Queller
@@ -232,6 +236,7 @@ weapons = [
     # 'i_n14201',                 # Pocket Grimoire
     # 'i_n14101',                 # Apprentice's Notes
     ############################# Bow
+    'i_n15513',                 # Pouring Heartstrings
     # 'i_n15512',                 # The First Great Magic
     # 'i_n15511',                 # Hunter's Path
     # 'i_n15509',                 # Thundering Pulse
@@ -241,6 +246,7 @@ weapons = [
     # 'i_n15502',                 # Amos' Bow
     # 'i_n15501',                 # Skyward Harp
     # 'i_n15427',                 # Range Gauge
+    'i_n15426',                 # Cloudweaver
     # 'i_n15425',                 # Song of Stillness
     # 'i_n15424',                 # Scion of the Blazing Sun
     # 'i_n15419',                 # Ibis Piercer
