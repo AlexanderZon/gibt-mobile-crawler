@@ -79,15 +79,18 @@ characters = [
     # 'liuyun_093',               # Xianyun
     # 'chiori_094',               # Chiori
     # 'arlecchino_096',           # Arlecchino
-    'sigewinne_095',            # Sigewinne
-    'sethos_097',               # Sethos
-    'clorinde_098',             # Clorinde
-    'emilie_099'                # Emilie
+    # 'sigewinne_095',            # Sigewinne
+    # 'sethos_097',               # Sethos
+    # 'clorinde_098',             # Clorinde
+    'emilie_099',                # Emilie
+    'kachina_100',               # Kachina
+    'kinich_101',                # Kinich
+    'mualani_102',               # Mualani
 ]
 
 weapons = [
     ############################# Swords
-    'i_n11515',                 # Absolution
+    # 'i_n11515',                 # Absolution
     # 'i_n11514',                 # Uraku Misugiri
     # 'i_n11513',                 # Splendor of Tranquil Waters
     # 'i_n11512',                 # Light of Foliar Incision
@@ -130,6 +133,7 @@ weapons = [
     # 'i_n11201',                 # Silver Sword
     # 'i_n11101',                 # Dull Blade
     ############################# Claymore
+    'i_n12513',                 # Mountain King's Fang
     # 'i_n12512',                 # Verdict
     # 'i_n12511',                 # Beacon of the Reed Sea
     # 'i_n12510',                 # Redhorn Stonethresher
@@ -137,6 +141,7 @@ weapons = [
     # 'i_n12503',                 # Song of Broken Pines
     # 'i_n12502',                 # Wolf's Gravestone
     # 'i_n12501',                 # Skyward Pride
+    'i_n12431',                 # Earthshaker
     # 'i_n12427',                 # Portable Power Saw
     # 'i_n12426',                 # "Ultimate Overlord's Mega Magic Sword"
     # 'i_n12425',                 # Tidal Shadow
@@ -176,6 +181,7 @@ weapons = [
     # 'i_n13504',                 # Vortex Vanquisher
     # 'i_n13502',                 # Skyward Spine
     # 'i_n13501',                 # Staff of Homa
+    'i_n13431',                 # The Rainbow's Trail
     # 'i_n13427',                 # Prospector's Drill
     # 'i_n13425',                 # Rightful Reward
     # 'i_n13424',                 # Ballad of the Fjords
@@ -199,6 +205,7 @@ weapons = [
     # 'i_n13201',                 # Iron Point
     # 'i_n13101',                 # Beginner's Protector
     ############################# Catalyst
+    'i_n14516',                 # Surfing Time
     # 'i_n14515',                 # Crane's Echoing Call
     # 'i_n14514',                 # Tome of the Eternal Flow
     # 'i_n14513',                 # Cashflow Supervision
@@ -210,6 +217,8 @@ weapons = [
     # 'i_n14504',                 # Memory of Dust
     # 'i_n14502',                 # Lost Prayer to the Sacred Winds
     # 'i_n14501',                 # Skyward Atlas
+    'i_n14431',                 # Ring of Ceiba
+    'i_n14427',                 # Ash-Graven Drinking Horn
     # 'i_n14426',                 # Ballad of the Boundless Blue
     # 'i_n14425',                 # Flowing Purity
     # 'i_n14424',                 # Sacrificial Jade
@@ -238,7 +247,7 @@ weapons = [
     # 'i_n14201',                 # Pocket Grimoire
     # 'i_n14101',                 # Apprentice's Notes
     ############################# Bow
-    'i_n15513',                 # Silvershower Heartstrings
+    # 'i_n15513',                 # Silvershower Heartstrings
     # 'i_n15512',                 # The First Great Magic
     # 'i_n15511',                 # Hunter's Path
     # 'i_n15509',                 # Thundering Pulse
@@ -247,8 +256,9 @@ weapons = [
     # 'i_n15503',                 # Elegy for the End
     # 'i_n15502',                 # Amos' Bow
     # 'i_n15501',                 # Skyward Harp
+    'i_n15431',                 # Shattered Chains
     # 'i_n15427',                 # Range Gauge
-    'i_n15426',                 # Cloudweaver
+    'i_n15426',                 # Cloudforged
     # 'i_n15425',                 # Song of Stillness
     # 'i_n15424',                 # Scion of the Blazing Sun
     # 'i_n15419',                 # Ibis Piercer
