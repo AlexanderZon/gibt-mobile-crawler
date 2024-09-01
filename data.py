@@ -82,14 +82,16 @@ characters = [
     # 'sigewinne_095',            # Sigewinne
     # 'sethos_097',               # Sethos
     # 'clorinde_098',             # Clorinde
-    'emilie_099',                # Emilie
+    # 'emilie_099',                # Emilie
     'kachina_100',               # Kachina
     'kinich_101',                # Kinich
     'mualani_102',               # Mualani
+    'xilonen_103',               # Xilonen
 ]
 
 weapons = [
     ############################# Swords
+    'i_n11516',                 # Peak Patrol Song
     # 'i_n11515',                 # Absolution
     # 'i_n11514',                 # Uraku Misugiri
     # 'i_n11513',                 # Splendor of Tranquil Waters
@@ -102,6 +104,8 @@ weapons = [
     # 'i_n11503',                 # Freedom-Sworn
     # 'i_n11502',                 # Skyward Blade
     # 'i_n11501',                 # Aquila Favonia
+    'i_n11431',                 # Flute of Ezpitzal
+    'i_n11430',                 # Sturdy Bone
     # 'i_n11428',                 # Sword of Narzissenkreuz
     # 'i_n11427',                 # The Dockhand's Assistant
     # 'i_n11426',                 # Fleuve Cendre Ferryman
@@ -172,7 +176,7 @@ weapons = [
     # 'i_n12201',                 # Old Merc's Pal
     # 'i_n12101',                 # Waster Greatsword
     ############################# Polearm
-    'i_n13513',                    # Lumidouce Elegy
+    # 'i_n13513',                    # Lumidouce Elegy
     # 'i_n13512',                 # Crimson Moon’s Semblance
     # 'i_n13511',                 # Staff of the Scarlet Sands
     # 'i_n13509',                 # Engulfing Lightning
@@ -181,7 +185,8 @@ weapons = [
     # 'i_n13504',                 # Vortex Vanquisher
     # 'i_n13502',                 # Skyward Spine
     # 'i_n13501',                 # Staff of Homa
-    'i_n13431',                 # The Rainbow's Trail
+    'i_n13431',                 # Footprint of the Rainbow
+    'i_n13430',                 # Mountain-Crushing Nail
     # 'i_n13427',                 # Prospector's Drill
     # 'i_n13425',                 # Rightful Reward
     # 'i_n13424',                 # Ballad of the Fjords
