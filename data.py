@@ -83,10 +83,12 @@ characters = [
     # 'sethos_097',               # Sethos
     # 'clorinde_098',             # Clorinde
     # 'emilie_099',                # Emilie
-    'kachina_100',               # Kachina
-    'kinich_101',                # Kinich
-    'mualani_102',               # Mualani
+    # 'kachina_100',               # Kachina
+    # 'kinich_101',                # Kinich
+    # 'mualani_102',               # Mualani
     'xilonen_103',               # Xilonen
+    'chasca_104',               # Chasca
+    'olorun_105',               # Ororon
 ]
 
 weapons = [
@@ -104,6 +106,7 @@ weapons = [
     # 'i_n11503',                 # Freedom-Sworn
     # 'i_n11502',                 # Skyward Blade
     # 'i_n11501',                 # Aquila Favonia
+    'i_n11432',                 # Calamity of Eshu
     'i_n11431',                 # Flute of Ezpitzal
     'i_n11430',                 # Sturdy Bone
     # 'i_n11428',                 # Sword of Narzissenkreuz
@@ -137,7 +140,7 @@ weapons = [
     # 'i_n11201',                 # Silver Sword
     # 'i_n11101',                 # Dull Blade
     ############################# Claymore
-    'i_n12513',                 # Mountain King's Fang
+    'i_n12513',                 # Fang of the Mountain King
     # 'i_n12512',                 # Verdict
     # 'i_n12511',                 # Beacon of the Reed Sea
     # 'i_n12510',                 # Redhorn Stonethresher
@@ -145,7 +148,8 @@ weapons = [
     # 'i_n12503',                 # Song of Broken Pines
     # 'i_n12502',                 # Wolf's Gravestone
     # 'i_n12501',                 # Skyward Pride
-    'i_n12431',                 # Earthshaker
+    'i_n12431',                 # Earth Shaker
+    'i_n12430',                 # Fruitful Hook
     # 'i_n12427',                 # Portable Power Saw
     # 'i_n12426',                 # "Ultimate Overlord's Mega Magic Sword"
     # 'i_n12425',                 # Tidal Shadow
@@ -176,8 +180,8 @@ weapons = [
     # 'i_n12201',                 # Old Merc's Pal
     # 'i_n12101',                 # Waster Greatsword
     ############################# Polearm
-    # 'i_n13513',                    # Lumidouce Elegy
-    # 'i_n13512',                 # Crimson Moon’s Semblance
+    # 'i_n13513',                 # Lumidouce Elegy
+    # 'i_n13512',                 # Crimson Moon's Semblance
     # 'i_n13511',                 # Staff of the Scarlet Sands
     # 'i_n13509',                 # Engulfing Lightning
     # 'i_n13507',                 # Calamity Queller
@@ -186,7 +190,7 @@ weapons = [
     # 'i_n13502',                 # Skyward Spine
     # 'i_n13501',                 # Staff of Homa
     'i_n13431',                 # Footprint of the Rainbow
-    'i_n13430',                 # Mountain-Crushing Nail
+    'i_n13430',                 # Mountain-Bracing Bolt
     # 'i_n13427',                 # Prospector's Drill
     # 'i_n13425',                 # Rightful Reward
     # 'i_n13424',                 # Ballad of the Fjords
@@ -210,7 +214,7 @@ weapons = [
     # 'i_n13201',                 # Iron Point
     # 'i_n13101',                 # Beginner's Protector
     ############################# Catalyst
-    'i_n14516',                 # Surfing Time
+    'i_n14516',                 # Surf's Up
     # 'i_n14515',                 # Crane's Echoing Call
     # 'i_n14514',                 # Tome of the Eternal Flow
     # 'i_n14513',                 # Cashflow Supervision
@@ -222,7 +226,8 @@ weapons = [
     # 'i_n14504',                 # Memory of Dust
     # 'i_n14502',                 # Lost Prayer to the Sacred Winds
     # 'i_n14501',                 # Skyward Atlas
-    'i_n14431',                 # Ring of Ceiba
+    'i_n14431',                 # Ring of Yaxche
+    'i_n14430',                 # Waveriding Whirl
     'i_n14427',                 # Ash-Graven Drinking Horn
     # 'i_n14426',                 # Ballad of the Boundless Blue
     # 'i_n14425',                 # Flowing Purity
@@ -252,6 +257,7 @@ weapons = [
     # 'i_n14201',                 # Pocket Grimoire
     # 'i_n14101',                 # Apprentice's Notes
     ############################# Bow
+    'i_n15514',                 # Astral Vulture's Crimson Plumage
     # 'i_n15513',                 # Silvershower Heartstrings
     # 'i_n15512',                 # The First Great Magic
     # 'i_n15511',                 # Hunter's Path
@@ -261,9 +267,10 @@ weapons = [
     # 'i_n15503',                 # Elegy for the End
     # 'i_n15502',                 # Amos' Bow
     # 'i_n15501',                 # Skyward Harp
-    'i_n15431',                 # Shattered Chains
+    'i_n15431',                 # Chain Breaker
+    'i_n15430',                 # Flower-Wreathed Feathers
     # 'i_n15427',                 # Range Gauge
-    'i_n15426',                 # Cloudforged
+    # 'i_n15426',                 # Cloudforged
     # 'i_n15425',                 # Song of Stillness
     # 'i_n15424',                 # Scion of the Blazing Sun
     # 'i_n15419',                 # Ibis Piercer
