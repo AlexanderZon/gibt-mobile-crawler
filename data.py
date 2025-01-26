@@ -82,13 +82,16 @@ characters = [
     # 'sigewinne_095',            # Sigewinne
     # 'sethos_097',               # Sethos
     # 'clorinde_098',             # Clorinde
-    # 'emilie_099',                # Emilie
-    # 'kachina_100',               # Kachina
-    # 'kinich_101',                # Kinich
-    # 'mualani_102',               # Mualani
-    'xilonen_103',               # Xilonen
+    # 'emilie_099',               # Emilie
+    # 'kachina_100',              # Kachina
+    # 'kinich_101',               # Kinich
+    # 'mualani_102',              # Mualani
+    # 'xilonen_103',              # Xilonen
     'chasca_104',               # Chasca
     'olorun_105',               # Ororon
+    'mavuika_106',               # Mavuika
+    'citlali_107',               # Citlali
+    'lanyan_108',               # Lan Yan
 ]
 
 weapons = [
@@ -107,8 +110,8 @@ weapons = [
     # 'i_n11502',                 # Skyward Blade
     # 'i_n11501',                 # Aquila Favonia
     'i_n11432',                 # Calamity of Eshu
-    'i_n11431',                 # Flute of Ezpitzal
-    'i_n11430',                 # Sturdy Bone
+    # 'i_n11431',                 # Flute of Ezpitzal
+    # 'i_n11430',                 # Sturdy Bone
     # 'i_n11428',                 # Sword of Narzissenkreuz
     # 'i_n11427',                 # The Dockhand's Assistant
     # 'i_n11426',                 # Fleuve Cendre Ferryman
@@ -140,7 +143,8 @@ weapons = [
     # 'i_n11201',                 # Silver Sword
     # 'i_n11101',                 # Dull Blade
     ############################# Claymore
-    'i_n12513',                 # Fang of the Mountain King
+    'i_n12514',                 # A Thousand Blazing Suns
+    # 'i_n12513',                 # Fang of the Mountain King
     # 'i_n12512',                 # Verdict
     # 'i_n12511',                 # Beacon of the Reed Sea
     # 'i_n12510',                 # Redhorn Stonethresher
@@ -149,7 +153,7 @@ weapons = [
     # 'i_n12502',                 # Wolf's Gravestone
     # 'i_n12501',                 # Skyward Pride
     'i_n12431',                 # Earth Shaker
-    'i_n12430',                 # Fruitful Hook
+    # 'i_n12430',                 # Fruitful Hook
     # 'i_n12427',                 # Portable Power Saw
     # 'i_n12426',                 # "Ultimate Overlord's Mega Magic Sword"
     # 'i_n12425',                 # Tidal Shadow
@@ -180,7 +184,7 @@ weapons = [
     # 'i_n12201',                 # Old Merc's Pal
     # 'i_n12101',                 # Waster Greatsword
     ############################# Polearm
-    # 'i_n13513',                 # Lumidouce Elegy
+    'i_n13513',                 # Lumidouce Elegy
     # 'i_n13512',                 # Crimson Moon's Semblance
     # 'i_n13511',                 # Staff of the Scarlet Sands
     # 'i_n13509',                 # Engulfing Lightning
@@ -190,7 +194,7 @@ weapons = [
     # 'i_n13502',                 # Skyward Spine
     # 'i_n13501',                 # Staff of Homa
     'i_n13431',                 # Footprint of the Rainbow
-    'i_n13430',                 # Mountain-Bracing Bolt
+    # 'i_n13430',                 # Mountain-Bracing Bolt
     # 'i_n13427',                 # Prospector's Drill
     # 'i_n13425',                 # Rightful Reward
     # 'i_n13424',                 # Ballad of the Fjords
@@ -214,7 +218,8 @@ weapons = [
     # 'i_n13201',                 # Iron Point
     # 'i_n13101',                 # Beginner's Protector
     ############################# Catalyst
-    'i_n14516',                 # Surf's Up
+    'i_n14517',                 # Starcaller's Watch
+    # 'i_n14516',                 # Surf's Up
     # 'i_n14515',                 # Crane's Echoing Call
     # 'i_n14514',                 # Tome of the Eternal Flow
     # 'i_n14513',                 # Cashflow Supervision
@@ -227,8 +232,8 @@ weapons = [
     # 'i_n14502',                 # Lost Prayer to the Sacred Winds
     # 'i_n14501',                 # Skyward Atlas
     'i_n14431',                 # Ring of Yaxche
-    'i_n14430',                 # Waveriding Whirl
-    'i_n14427',                 # Ash-Graven Drinking Horn
+    # 'i_n14430',                 # Waveriding Whirl
+    # 'i_n14427',                 # Ash-Graven Drinking Horn
     # 'i_n14426',                 # Ballad of the Boundless Blue
     # 'i_n14425',                 # Flowing Purity
     # 'i_n14424',                 # Sacrificial Jade
