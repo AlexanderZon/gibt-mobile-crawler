@@ -44,8 +44,9 @@ class Weapon(HttpClient):
                     case "Name":
                         self.main_info['Name'.lower()] = self.cleanHtml(row[1])
                     case "Rarity":
-                        stars = row[1].count('<img decoding=async  alt=Raritystr class=cur_icon src=/img/icons/star_35.webp')
+                        stars = row[1].count('<img decoding=async alt=Raritystr class=cur_icon src=/img/icons/star_35.webp')
                         if(stars == 0): stars = row[1].count('<img decoding="async" alt="Raritystr" class="cur_icon" src="/img/icons/star_35.webp')
+                        print('stars:', stars)
                         self.main_info[row[0].lower()] = stars
                     case "Family":
                         weapon_type = self.findAll(r'\[(.+?)\]', self.cleanHtml(row[1]))

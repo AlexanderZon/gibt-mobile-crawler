@@ -87,11 +87,12 @@ characters = [
     # 'kinich_101',               # Kinich
     # 'mualani_102',              # Mualani
     # 'xilonen_103',              # Xilonen
-    'chasca_104',               # Chasca
-    'olorun_105',               # Ororon
+    # 'chasca_104',               # Chasca
+    # 'olorun_105',               # Ororon
     'mavuika_106',               # Mavuika
     'citlali_107',               # Citlali
     'lanyan_108',               # Lan Yan
+    'mizuki_109',               # Yumemizuki Mizuki
 ]
 
 weapons = [
@@ -193,7 +194,8 @@ weapons = [
     # 'i_n13504',                 # Vortex Vanquisher
     # 'i_n13502',                 # Skyward Spine
     # 'i_n13501',                 # Staff of Homa
-    'i_n13431',                 # Footprint of the Rainbow
+    'i_n13432',                 # Tamayuratei no Ohanashi
+    # 'i_n13431',                 # Footprint of the Rainbow
     # 'i_n13430',                 # Mountain-Bracing Bolt
     # 'i_n13427',                 # Prospector's Drill
     # 'i_n13425',                 # Rightful Reward

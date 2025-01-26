@@ -40,6 +40,7 @@ class Character(HttpClient):
                     case "Rarity":
                         stars = row[1].count('<img decoding=async alt=Raritystr class=cur_icon src=/img/icons/star_35.webp')
                         if(stars == 0): stars = row[1].count('<img decoding="async" alt="Raritystr" class="cur_icon" src="/img/icons/star_35.webp')
+                        print('stars:', stars)
                         self.main_info[row[0].lower()] = stars
                     case "Weapon":
                         weapon = self.findAll('/img/icons/weapon_types/(.+?)_35.webp', row[1])     
