@@ -89,10 +89,12 @@ characters = [
     # 'xilonen_103',              # Xilonen
     # 'chasca_104',               # Chasca
     # 'olorun_105',               # Ororon
-    'mavuika_106',               # Mavuika
-    'citlali_107',               # Citlali
+    # 'mavuika_106',               # Mavuika
+    # 'citlali_107',               # Citlali
     'lanyan_108',               # Lan Yan
     'mizuki_109',               # Yumemizuki Mizuki
+    'iansan_110',               # Iansan
+    'varesa_111',               # Varesa
 ]
 
 weapons = [
@@ -220,6 +222,8 @@ weapons = [
     # 'i_n13201',                 # Iron Point
     # 'i_n13101',                 # Beginner's Protector
     ############################# Catalyst
+    'i_n14519',                 # Vivid Notions
+    'i_n14518',                 # Sunny Morning Sleep-In
     'i_n14517',                 # Starcaller's Watch
     # 'i_n14516',                 # Surf's Up
     # 'i_n14515',                 # Crane's Echoing Call

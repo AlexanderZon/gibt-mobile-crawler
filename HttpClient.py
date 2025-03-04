@@ -54,6 +54,17 @@ class HttpClient:
     def findAll(self, regex, text):
         return re.findall(regex, text)
     
+    def findCleanedAll(self, regex, text):
+        match = re.search(regex, self._response, re.DOTALL)
+
+        if match:
+            html_content = match.group(0)
+            pattern = r'<script.*?<\/script>'
+            cleaned_html = re.sub(pattern, '', html_content, flags=re.DOTALL)
+            return [cleaned_html] 
+        else:
+            return []
+    
     def parseSufixes(self, quantity):
         if('K' in quantity):
             quantity = quantity.replace('K', '000')

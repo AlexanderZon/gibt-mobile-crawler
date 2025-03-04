@@ -31,7 +31,7 @@ class Material(HttpClient):
 
 
     def getMainTableInfo(self):
-        main_table = self.findAll(r'<table class="genshin_table main_table">(.+?)</table>', self._response)
+        main_table = self.findCleanedAll(r'<table class="genshin_table main_table">(.+?)</table>', self._response)
         if(len(main_table) > 0):
             main_table_rows = self.findAll(r'<tr>(.+?)</tr>', main_table[0])
             for i in range(len(main_table_rows)):

@@ -2,6 +2,7 @@ from HttpClient import HttpClient
 from data import characters
 import json
 import time
+import re
 
 class Character(HttpClient):
 
@@ -29,9 +30,7 @@ class Character(HttpClient):
             self.__init__(id)
 
     def getMainTableInfo(self):
-        main_table = self.findAll(r'<table class="genshin_table main_table">(.+?)</table>', self._response)
-        
-        # main_info['description'] = None
+        main_table = self.findCleanedAll(r'<table class="(.+?)">(.+?)</table>', self._response)
         if(len(main_table) > 0):
             main_table_rows = self.findAll(r'<tr>(.+?)</tr>', main_table[0])
             for i in range(len(main_table_rows)):
@@ -40,7 +39,6 @@ class Character(HttpClient):
                     case "Rarity":
                         stars = row[1].count('<img decoding=async alt=Raritystr class=cur_icon src=/img/icons/star_35.webp')
                         if(stars == 0): stars = row[1].count('<img decoding="async" alt="Raritystr" class="cur_icon" src="/img/icons/star_35.webp')
-                        print('stars:', stars)
                         self.main_info[row[0].lower()] = stars
                     case "Weapon":
                         weapon = self.findAll('/img/icons/weapon_types/(.+?)_35.webp', row[1])     
