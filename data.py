@@ -89,12 +89,14 @@ characters = [
     # 'xilonen_103',              # Xilonen
     # 'chasca_104',               # Chasca
     # 'olorun_105',               # Ororon
-    # 'mavuika_106',               # Mavuika
-    # 'citlali_107',               # Citlali
-    'lanyan_108',               # Lan Yan
-    'mizuki_109',               # Yumemizuki Mizuki
-    'iansan_110',               # Iansan
-    'varesa_111',               # Varesa
+    # 'mavuika_106',              # Mavuika
+    # 'citlali_107',              # Citlali
+    # 'lanyan_108',               # Lan Yan
+    # 'mizuki_109',               # Yumemizuki Mizuki
+    'iansan_110',                 # Iansan
+    'varesa_111',                 # Varesa
+    'escoffier_112',              # Escoffier
+    'ifa_113',                    # Ifa
 ]
 
 weapons = [
@@ -187,7 +189,8 @@ weapons = [
     # 'i_n12201',                 # Old Merc's Pal
     # 'i_n12101',                 # Waster Greatsword
     ############################# Polearm
-    'i_n13513',                 # Lumidouce Elegy
+    'i_n13514',                 # Symphonist of Scents
+    # 'i_n13513',                 # Lumidouce Elegy
     # 'i_n13512',                 # Crimson Moon's Semblance
     # 'i_n13511',                 # Staff of the Scarlet Sands
     # 'i_n13509',                 # Engulfing Lightning
@@ -223,8 +226,8 @@ weapons = [
     # 'i_n13101',                 # Beginner's Protector
     ############################# Catalyst
     'i_n14519',                 # Vivid Notions
-    'i_n14518',                 # Sunny Morning Sleep-In
-    'i_n14517',                 # Starcaller's Watch
+    # 'i_n14518',                 # Sunny Morning Sleep-In
+    # 'i_n14517',                 # Starcaller's Watch
     # 'i_n14516',                 # Surf's Up
     # 'i_n14515',                 # Crane's Echoing Call
     # 'i_n14514',                 # Tome of the Eternal Flow
@@ -278,8 +281,9 @@ weapons = [
     # 'i_n15503',                 # Elegy for the End
     # 'i_n15502',                 # Amos' Bow
     # 'i_n15501',                 # Skyward Harp
-    'i_n15431',                 # Chain Breaker
-    'i_n15430',                 # Flower-Wreathed Feathers
+    'i_n15432',                 # Sequence of Solitude
+    # 'i_n15431',                 # Chain Breaker
+    # 'i_n15430',                 # Flower-Wreathed Feathers
     # 'i_n15427',                 # Range Gauge
     # 'i_n15426',                 # Cloudforged
     # 'i_n15425',                 # Song of Stillness
