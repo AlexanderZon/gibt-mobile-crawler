@@ -93,8 +93,8 @@ characters = [
     # 'citlali_107',              # Citlali
     # 'lanyan_108',               # Lan Yan
     # 'mizuki_109',               # Yumemizuki Mizuki
-    'iansan_110',                 # Iansan
-    'varesa_111',                 # Varesa
+    # 'iansan_110',               # Iansan
+    # 'varesa_111',               # Varesa
     'escoffier_112',              # Escoffier
     'ifa_113',                    # Ifa
 ]
