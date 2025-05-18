@@ -95,13 +95,16 @@ characters = [
     # 'mizuki_109',               # Yumemizuki Mizuki
     # 'iansan_110',               # Iansan
     # 'varesa_111',               # Varesa
-    'escoffier_112',              # Escoffier
-    'ifa_113',                    # Ifa
+    # 'escoffier_112',              # Escoffier
+    # 'ifa_113',                    # Ifa
+    'skirknew_114',               # Skirk
+    'dahlia_115',                 # Dahlia
 ]
 
 weapons = [
     ############################# Swords
-    'i_n11516',                 # Peak Patrol Song
+    'i_n11517',                 # Azurelight
+    # 'i_n11516',                 # Peak Patrol Song
     # 'i_n11515',                 # Absolution
     # 'i_n11514',                 # Uraku Misugiri
     # 'i_n11513',                 # Splendor of Tranquil Waters
