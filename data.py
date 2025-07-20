@@ -99,6 +99,7 @@ characters = [
     # 'ifa_113',                    # Ifa
     'skirknew_114',               # Skirk
     'dahlia_115',                 # Dahlia
+    'ineffa_116',                 # Ineffa
 ]
 
 weapons = [
@@ -160,6 +161,7 @@ weapons = [
     # 'i_n12503',                 # Song of Broken Pines
     # 'i_n12502',                 # Wolf's Gravestone
     # 'i_n12501',                 # Skyward Pride
+    'i_n12432',                 # Flame-Forged Insight
     'i_n12431',                 # Earth Shaker
     # 'i_n12430',                 # Fruitful Hook
     # 'i_n12427',                 # Portable Power Saw
@@ -192,6 +194,7 @@ weapons = [
     # 'i_n12201',                 # Old Merc's Pal
     # 'i_n12101',                 # Waster Greatsword
     ############################# Polearm
+    'i_n13515',                 # Fractured Halo
     'i_n13514',                 # Symphonist of Scents
     # 'i_n13513',                 # Lumidouce Elegy
     # 'i_n13512',                 # Crimson Moon's Semblance
